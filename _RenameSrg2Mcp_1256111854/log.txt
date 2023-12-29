@@ -1,0 +1,15 @@
+Java Launcher: /Users/beans/.gradle/jdks/jdk-17.0.3+7/Contents/Home/bin/java
+Arguments: '--task, SRG_TO_MCP, --input, /Users/beans/.gradle/caches/modules-2/files-2.1/curse.maven/saturn-670986/4800861/b367d6e019558b555f7ff020289305b76fd79352/saturn-670986-4800861.jar, --output, /Users/beans/.gradle/caches/forge_gradle/deobf_dependencies/curse/maven/saturn-670986/4800861_mapped_official_1.20.1/saturn-670986-4800861_mapped_official_1.20.1.jar, --mcp, /Users/beans/.gradle/caches/forge_gradle/mcp_repo/net/minecraft/mapping/1.20.1/mapping-1.20.1-mapping.zip, --strip-signatures'
+Classpath:
+ - /Users/beans/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/installertools/1.3.2/installertools-1.3.2-fatjar.jar
+Working directory: /Users/beans/Desktop/Decaying Worlds/build/_RenameSrg2Mcp_1256111854
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  /Users/beans/.gradle/caches/modules-2/files-2.1/curse.maven/saturn-670986/4800861/b367d6e019558b555f7ff020289305b76fd79352/saturn-670986-4800861.jar
+Output: /Users/beans/.gradle/caches/forge_gradle/deobf_dependencies/curse/maven/saturn-670986/4800861_mapped_official_1.20.1/saturn-670986-4800861_mapped_official_1.20.1.jar
+MCP:    /Users/beans/.gradle/caches/forge_gradle/mcp_repo/net/minecraft/mapping/1.20.1/mapping-1.20.1-mapping.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete

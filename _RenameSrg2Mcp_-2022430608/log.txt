@@ -1,0 +1,15 @@
+Java Launcher: /Users/beans/.gradle/jdks/jdk-17.0.3+7/Contents/Home/bin/java
+Arguments: '--task, SRG_TO_MCP, --input, /Users/beans/.gradle/caches/modules-2/files-2.1/curse.maven/rubidium-574856/4763255/e67ef350e8247d83b33459dae8951f396ae341df/rubidium-574856-4763255.jar, --output, /Users/beans/.gradle/caches/forge_gradle/deobf_dependencies/curse/maven/rubidium-574856/4763255_mapped_official_1.20.1/rubidium-574856-4763255_mapped_official_1.20.1.jar, --mcp, /Users/beans/.gradle/caches/forge_gradle/mcp_repo/net/minecraft/mapping/1.20.1/mapping-1.20.1-mapping.zip, --strip-signatures'
+Classpath:
+ - /Users/beans/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/installertools/1.3.2/installertools-1.3.2-fatjar.jar
+Working directory: /Users/beans/Desktop/Decaying Worlds/build/_RenameSrg2Mcp_-2022430608
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  /Users/beans/.gradle/caches/modules-2/files-2.1/curse.maven/rubidium-574856/4763255/e67ef350e8247d83b33459dae8951f396ae341df/rubidium-574856-4763255.jar
+Output: /Users/beans/.gradle/caches/forge_gradle/deobf_dependencies/curse/maven/rubidium-574856/4763255_mapped_official_1.20.1/rubidium-574856-4763255_mapped_official_1.20.1.jar
+MCP:    /Users/beans/.gradle/caches/forge_gradle/mcp_repo/net/minecraft/mapping/1.20.1/mapping-1.20.1-mapping.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete
